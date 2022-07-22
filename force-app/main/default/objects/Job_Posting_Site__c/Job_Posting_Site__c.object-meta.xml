@@ -159,7 +159,7 @@
         <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Job POsting Sites</pluralLabel>
+    <pluralLabel>Job Posting Sites</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
